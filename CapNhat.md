@@ -1,9 +1,5 @@
 # Các bước
-1.  Tải về lần đầu: Chỉ làm 1 lần duy nhất khi máy chưa có code.
-
-    ```Bash
-    git clone https://github.com/baoneeeeee/Do_An_Tot_Nghiep
-2.  Quy trình Code hàng ngày (Quan trọng)
+1. Quy trình Code
 * Bước 1: Cập nhật code mới (Pull)
 
     ```Bash
